@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Elephant.unity
+    guid: e524a5a597e31e54e8894617785c6c56
+  - enabled: 1
+    path: Assets/Scenes/Tea Pot.unity
+    guid: 96116fde867a08d46892f72a1b025e97
+  - enabled: 1
+    path: Assets/Scenes/Globe.unity
+    guid: 6c00ae69d3964874dbe29e3c2919e28a
   m_configObjects: {}
